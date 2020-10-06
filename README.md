@@ -8,6 +8,7 @@ It might be possible to find the lock combination of a lock by using:
 
 "n#" are "set numbers" and "s" is the "set size".
 
+![](./lock.png)
 
 Test program usage: prog [parameter count] [start] [end]
 * [parameter count], 32 max

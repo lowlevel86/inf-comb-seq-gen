@@ -11,10 +11,10 @@ It might be possible to find the lock combination of a lock by using:
 
 Test program usage: prog [parameter count] [start] [end]
 * [parameter count], 32 max
-* [start] [end] == the range
+* [start] [end] == the range, 32-bit values
 
-prog 32 4294967293 4294967295
-* This will instantly return the last 3 set numbers and set size for the 32-bit input.
+prog 9 4294967291 4294967295
+* This will instantly return the last 5 possible set sizes and combinations for 9 parameters.
 
 
 Applications

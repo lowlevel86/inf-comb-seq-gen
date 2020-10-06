@@ -6,7 +6,7 @@ A kind of closed-form routine that quickly gives a logical set of values useful 
 It might be possible to find the lock combination of a lock by using:  
 * n1 / (s - 1), -n2 / (s - 1) - 1, n3 / (s - 1)
 
-"n#" is the set number and "s" is the set size.
+"n#" are "set numbers" and "s" is the "set size".
 
 
 Test program usage: prog [parameter count] [start] [end]

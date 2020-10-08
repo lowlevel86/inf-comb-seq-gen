@@ -22,4 +22,4 @@ Applications
 * testing code
 * machine learning
 
-NOTE: A lot of the mathematics implemented in this code has to do with combinatorial numbers, triangle numbers, and binary numbers.
+NOTE: A lot of the mathematics in this code has to do with combinatorial numbers, triangle numbers, and base conversion.
